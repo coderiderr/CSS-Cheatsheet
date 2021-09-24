@@ -1,0 +1,16 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+.text{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 5rem;
+    background: url(https://i.ibb.co/w0dtBsv/1.jpg) no-repeat scroll;
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
